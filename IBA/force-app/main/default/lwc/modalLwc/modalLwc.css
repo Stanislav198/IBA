@@ -1,0 +1,18 @@
+.slds-modal__content {
+  background-color: rgb(139, 229, 245);
+}
+.slds-modal__header {
+  background-color: rgb(254, 255, 221);
+}
+.slds-modal__footer {
+  background-color: rgb(254, 255, 221);
+}
+.slds-text-heading_medium {
+  font-weight: 900;
+}
+.slds-item_label {
+  font-weight: 700;
+}
+.slds-modal__container {
+  width: 1000px;
+}
